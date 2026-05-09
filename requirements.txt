@@ -1,0 +1,4 @@
+asyncio
+python-dotenv
+tgcrypto
+git+https://github.com/adityahalder/pyrogram
